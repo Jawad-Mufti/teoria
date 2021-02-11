@@ -1,5 +1,4 @@
 Teoria.js
-=========
 
 Teoria.js is a lightweight and fast JavaScript library
 for music theory, both Jazz and Classical. It aims at providing an intuitive
