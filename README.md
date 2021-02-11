@@ -14,7 +14,6 @@ Features
  - A chord object (`teoria.Chord`), which understands everything
  from simple major/minor chords to advanced Jazz chords (Ab#5b9, F(#11) and such)
 
- - A scale object (`teoria.Scale`), The scale object is a powerful presentation of
  a scale, which supports quite a few handy methods. A scale can either be
  constructed from the predefined scales, which by default contains the 7 modes
  (Ionian, Dorian, Phrygian etc.) a major and minor pentatonic and the harmonic
